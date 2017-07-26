@@ -1,3 +1,4 @@
+ Insertion of a node in Linked List (On the basis of some constraints)
 
 /*
 structure of the node of the list is as
@@ -26,3 +27,5 @@ void sortedInsert(struct node** head_ref, int data)
     }
 }
 
+
+Time Complexity: O(n)
